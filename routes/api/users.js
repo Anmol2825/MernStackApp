@@ -4,9 +4,9 @@ const gravatar = require('gravatar');
 const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');
 const { check, validationResult } = require('express-validator');
+const c = require('../../config/default.json');
 
 const User = require('../../models/User');
-const c = require('../../config/default.json');
 
 // @route   POST api/users
 // @desc    Register User
