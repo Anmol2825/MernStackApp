@@ -1,0 +1,4 @@
+{
+  "mongoURL": "mongodb+srv://anmol:anmol@cluster0.gtpkgkw.mongodb.net/?retryWrites=true&w=majority",
+  "jwtToken": "mysecrettoken"
+}
