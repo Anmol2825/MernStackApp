@@ -1,4 +1,6 @@
 {
   "mongoURL": "mongodb+srv://anmol:anmol@cluster0.gtpkgkw.mongodb.net/?retryWrites=true&w=majority",
-  "jwtToken": "mysecrettoken"
+  "jwtToken": "mysecrettoken",
+  "githubClientId": "ec9b6cd240468841c460",
+  "githubSecret": "00bcc0ac885cb295cbc7fb203262bd308754032a"
 }
